@@ -1,0 +1,5 @@
+cmake_minimum_required( VERSION 2.8 )
+project(Image_rectification)
+find_package(OpenCV REQUIRED)
+add_executable(image_rectification image_rectification.cpp)
+target_link_libraries(Tracker ${OpenCV_LIBS})

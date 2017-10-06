@@ -1,0 +1,2 @@
+Sync_messages
+-DCATKIN_DEVEL_PREFIX=/media/dhaivat1729/e4187b00-2f8d-4c09-b475-5966c6563009/Rockwell_collins_fast_stereo/catkin_sync_images/devel -DCMAKE_INSTALL_PREFIX=/media/dhaivat1729/e4187b00-2f8d-4c09-b475-5966c6563009/Rockwell_collins_fast_stereo/catkin_sync_images/install -G Unix Makefiles
